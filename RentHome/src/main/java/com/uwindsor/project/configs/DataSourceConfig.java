@@ -22,9 +22,7 @@ import java.util.Properties;
 import javax.persistence.EntityManagerFactory;
 import javax.sql.DataSource;;
 
-/**
- * @author Afnan Ur Rehman
- */
+
 
 @EnableJpaRepositories("com.uwindsor.project")
 @EnableTransactionManagement
