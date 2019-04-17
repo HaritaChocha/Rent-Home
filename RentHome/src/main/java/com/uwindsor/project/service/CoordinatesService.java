@@ -4,7 +4,7 @@ import java.util.List;
 
 import com.uwindsor.project.models.Coordinates;
 /**
- * @author Afnan Ur Rehman
+ * @author Harita Chocha
  */
 public interface CoordinatesService {
 
