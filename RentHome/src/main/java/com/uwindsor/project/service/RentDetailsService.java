@@ -4,7 +4,7 @@ import java.util.List;
 
 import com.uwindsor.project.models.RentDetails;
 /**
- * @author Afnan Ur Rehman
+ * @author Harita Chocha
  */
 public interface RentDetailsService {
 
