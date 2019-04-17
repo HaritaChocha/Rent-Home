@@ -14,9 +14,7 @@ import com.uwindsor.project.models.RentDetails;
 import com.uwindsor.project.service.CoordinatesService;
 import com.uwindsor.project.service.RentDetailsService;
 
-/**
- * @author Afnan Ur Rehman
- */
+
 @Controller
 public class LandingController {
 
